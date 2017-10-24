@@ -1,0 +1,3 @@
+# specific to this project
+build/
+node_modules/
